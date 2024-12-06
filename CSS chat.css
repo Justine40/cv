@@ -1,6 +1,6 @@
 /* styles.css */
-.image-background-black {
-    background-color: black; /* Couleur de fond */
-    display: inline-block; /* Nécessaire si l'image est un élément inline */
-    padding: 10px; /* Optionnel : pour créer un espace entre l'image et le fond */
+body {
+    background-color: red; /* Définit le fond de la page en rouge */
+    margin: 0; /* Supprime les marges par défaut */
+    padding: 0; /* Supprime les paddings par défaut */
 }
